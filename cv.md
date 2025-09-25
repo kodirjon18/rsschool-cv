@@ -8,17 +8,9 @@
 
 
 ## Contact Infomation
-**Email:** kadilov1808@gmail.com
+**Email:** kadilov1808@gmail.com        **Phone:** +998948481818        **Discord:** kodir9415
 
-**Phone:** +998948481818
-
-**GitHub:** [GitHub](https://github.com/kodirjon18)
-
-**Discord:** kodir9415
-
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kodirjon-adilov-773069214/)
-
-**Telegram:** [Telegram](https://t.me/adilov_qodirjon)
+**GitHub:** [GitHub](https://github.com/kodirjon18)     **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kodirjon-adilov-773069214/)        **Telegram:** [Telegram](https://t.me/adilov_qodirjon)
 
 
 ## Brief Self-Introduction
@@ -32,7 +24,7 @@ I am an IT beginner who likes web development and programming. My goal is to lea
 - BEM, DRY
 
 ## Work Experience
-# Kirano.uz
+**Kirano.uz**
 
 **Frontend Developer | March 2025 - Present**
 - Develop responsive and maintainable websites using Vue.js, Nuxt.js, Sass, and Element Plus UI library. 
@@ -42,13 +34,17 @@ I am an IT beginner who likes web development and programming. My goal is to lea
 - Participated in 15+ real-world projects, including corporate websites, platforms for university students, and ERP systems.
 
 ## Education
-# PDP Academy
-**Courses:**Frontend Development
+**PDP Academy**
+**Courses:** Frontend Development
+
 April 2024 - January 2025
 
-# Westminster International University in Tashkent
-**Faculty:**Business Information Systems
+
+**Westminster International University in Tashkent**
+**Faculty:** Business Information Systems
+
 October 2015 - April 2019
+
 
 ## Projects
 [Corporate website](https://deal-zone.agcg.uz/)
