@@ -1,5 +1,5 @@
 ## Personal Information
-**Full Name:** Kodirjon Adilov  
+![my profile photo](./avatar.jpg)**Full Name:** Kodirjon Adilov  
 
 **Date of Birth:** August 18, 1994
 
