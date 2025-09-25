@@ -8,9 +8,9 @@
 
 
 ## Contact Infomation
-**Email:** kadilov1808@gmail.com        **Phone:** +998948481818        **Discord:** kodir9415
+**Email:** kadilov1808@gmail.com&nbsp;&nbsp;&nbsp;**Phone:** +998948481818&nbsp;&nbsp;&nbsp;**Discord:** kodir9415
 
-**GitHub:** [GitHub](https://github.com/kodirjon18)     **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kodirjon-adilov-773069214/)        **Telegram:** [Telegram](https://t.me/adilov_qodirjon)
+[GitHub](https://github.com/kodirjon18) | [LinkedIn](https://www.linkedin.com/in/kodirjon-adilov-773069214/) | [Telegram](https://t.me/adilov_qodirjon)
 
 
 ## Brief Self-Introduction
@@ -35,12 +35,14 @@ I am an IT beginner who likes web development and programming. My goal is to lea
 
 ## Education
 **PDP Academy**
+
 **Courses:** Frontend Development
 
 April 2024 - January 2025
 
 
 **Westminster International University in Tashkent**
+
 **Faculty:** Business Information Systems
 
 October 2015 - April 2019
